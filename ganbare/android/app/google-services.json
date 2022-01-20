@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "616883576131",
+    "firebase_url": "https://ganbare-49aac.firebaseio.com",
+    "project_id": "ganbare-49aac",
+    "storage_bucket": "ganbare-49aac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616883576131:android:7a13c7d4abc5c160f7e3f6",
+        "android_client_info": {
+          "package_name": "com.example.ganbare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616883576131-7ktob3nlgpv9qrrrvh0abpppmffijbjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ganbare",
+            "certificate_hash": "72247e2595ae940e4e31a057e1653daea99ebb6d"
+          }
+        },
+        {
+          "client_id": "616883576131-qtbgdb6ghlhqis8259u2hfoqj8pd9bvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_gY4bj6vlXiTFBFHVaYSRUCCQPW_H1jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616883576131-qtbgdb6ghlhqis8259u2hfoqj8pd9bvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
